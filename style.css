@@ -1,0 +1,20 @@
+img{
+  width: 600px;
+  height: 400px;
+  filter: grayscale(100%);
+}
+h1{
+  font-family: Impact;
+  letter-spacing: 1px;
+  font-weight: 200;
+}
+p{
+  font-family: monospace;
+  font-size: large;
+}
+ul, li{
+font-family: "courier new";
+}
+h6{
+  font-size: small;
+}
