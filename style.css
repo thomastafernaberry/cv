@@ -1,12 +1,33 @@
+body {
+  background-color: burlywood;
+}
 img{
+  position: relative;
+  left: 30%;
   width: 600px;
   height: 400px;
   filter: grayscale(100%);
+}
+.imgborder{
+  border: solid;
+  border-radius: 20px;
 }
 h1{
   font-family: Impact;
   letter-spacing: 1px;
   font-weight: 200;
+  border-radius: 10px;
+}
+.bluebox {
+  position: relative;
+  left: 40%;
+  width: 200px;
+  border: 2px solid;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+  background-color: cadetblue;
+  box-shadow: -1px 2px 5px;
 }
 p{
   font-family: monospace;
